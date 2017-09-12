@@ -1,0 +1,43 @@
+nav{
+	max-width: 1000px;
+	margin: 20px auto;
+	font-size: 0;
+}
+
+nav li{
+	display: inline-block;
+
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px 35px;
+	color: #fff;
+	font-size: 20px;
+	width: 100px;
+	text-align: center;
+}
+
+.blog{
+	color: #90A4AD;
+	text-align: right;
+}
+
+
+.tech {
+	background-color: #B2DFDC;
+}
+
+.emotions {
+	background: #F9BBD0;
+	
+}
+
+.portfolio {
+	background: #D0C4E8;
+}
+
+.contact {
+	background: #CED7DC;
+}
